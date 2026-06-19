@@ -1,0 +1,12 @@
+# Внутренние материалы — НЕ публиковать в открытый репозиторий
+CLAUDE.md
+BRIEF-buleeva.md
+main goal.md
+reviews.md
+services.md
+.claude/
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
