@@ -6,6 +6,9 @@ reviews.md
 services.md
 .claude/
 
+# Сборочные ресурсы (шрифты для генерации og-картинки)
+.fonts/
+
 # Системное
 Thumbs.db
 desktop.ini
